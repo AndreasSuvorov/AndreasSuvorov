@@ -11,7 +11,11 @@ Self-hosted AI and automation on consumer hardware: one GPU, a Proxmox box under
 - Sharing a single NVIDIA GPU across several Proxmox containers
 - Letting Claude Code maintain my notes, homelab docs and project logs
 
-Write-ups and code for these are on their way to this profile.
+## Projects
+
+- [pixal3d-16gb](https://github.com/AndreasSuvorov/pixal3d-16gb): Pixal3D image-to-3D on a 16 GB GPU, with lazy-loading patches and a multi-view web UI
+
+More write-ups are on their way.
 
 ## Stack
 
